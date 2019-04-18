@@ -6,6 +6,7 @@ Topics:
 
 * `data` attributes
 
+
 In this project, our design team has already built an HTML/CSS web page for us, our job is to add javascript functionality.
 
 ## Set Up The Project With Git
